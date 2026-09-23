@@ -1,0 +1,5 @@
+.config/gh/hosts.yml
+.config/gh/
+*.o
+*.out
+*.exe
